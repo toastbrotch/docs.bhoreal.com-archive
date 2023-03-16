@@ -2,7 +2,7 @@
 
 Here you'll find the archived documentation for the Bhoreal controller.
 
-To view this documentation, visit [our website](blob/master/docs/start.md), where the documentation is hosted.
+To view this documentation, visit [this website](docs/start.md), where the documentation is hosted.
 
 ### License
 
